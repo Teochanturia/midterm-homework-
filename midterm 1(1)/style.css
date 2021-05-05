@@ -1,0 +1,30 @@
+div{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(255, 238, 0);
+    margin: auto;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border: solid 6px red;
+
+
+}
+
+h2{
+    text-shadow: 3px 3px white;
+    color:red;
+    text-align: center;
+    position: relative;
+    top:  -10px;
+}
+
+a{
+    background-color: burlywood;
+    border: dotted 3px gray; 
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+div{
+    border: solid 2px black;
+    background-color: white;
+    width: 520px;
+    height: 400px;
+    margin: auto;
+}
+
+
+.a{
+    background-color: rgb(199, 198, 198);
+    position: absolute;
+    top: 20px;
+    left: 440px;
+    width: 120px;
+    height: 30px;
+    border-bottom-color: blue;
+}
+.b{
+    background-color: rgb(202, 199, 199);
+    position: absolute;
+    top: 20px;
+    left: 565px;
+    width: 120px;
+    height: 30px;
+    border-bottom-color: blue;
+}
+.c{
+    background-color: rgb(207, 204, 204);
+    position: absolute;
+    top: 20px;
+    left: 690px;
+    width: 120px;
+    height: 30px;
+    border-bottom-color: blue;
+}
+.d{
+    background-color: rgb(201, 198, 198);
+    position: absolute;
+    top: 20px;
+    left: 815px;
+    width: 120px;
+    height: 30px;
+    border-bottom-color: blue;
+}

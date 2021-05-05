@@ -1,0 +1,56 @@
+
+.z{
+    margin: auto;
+    border: solid 2px grey;
+    background-color: rgb(199, 197, 197);
+    height: 100px;
+    width: 800px;
+    border-radius: 0%;
+}
+.x{
+    background-color: yellow;
+    border: dashed 4px red;
+    width: 150px;
+    height: 80px;
+    border-radius: 0%;
+    position: absolute;
+    left: 350px;
+    top: 15px;
+
+}
+.y{
+    background-color: yellow;
+    border-left: solid 4px green;
+    border-top: dashed 4px red;
+    border-bottom: dashed 4px blue;
+    border-right: hidden;
+    width: 150px;
+    height: 80px;
+    border-radius: 0%;
+    position: relative;
+    top: 5px;
+    left: 340px;
+}
+.w{
+    width: 1px;
+    height: 1px;
+    background-color: yellow;
+   border-radius: 0%;
+   border-top: solid 30px red;
+   border-right: solid 30px yellow;
+   border-bottom: solid 30px blue;
+   border-left: solid 30px green;
+   position: relative;
+   top: -70px;
+   left: 600px;
+}
+a{
+    background-color: rgb(221, 171, 233);
+    border: dotted 3px rgb(95, 95, 95); 
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}
